@@ -115,3 +115,5 @@ server <- function(input,
 # Running the app
 
 shinyApp(ui = ui, server = server)
+
+
