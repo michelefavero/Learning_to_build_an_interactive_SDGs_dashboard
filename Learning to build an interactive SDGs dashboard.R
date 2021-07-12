@@ -1,4 +1,4 @@
-nstall.packages("readr") # Uploading data
+install.packages("readr") # Uploading data
 install.packages("dplyr") # Data management
 install.packages("assertive") # Data Cleaning, coverting data types 
 install.packages("stringr") # Data Adjustments 
